@@ -1,0 +1,13 @@
+,Transport,Feature,Model,Validation set,MCC
+0,Influx,MACCS,Cornelissen_XGBoost,Cornelissen Test-Validation,0.4684994305456693
+1,Efflux,MACCS,Cornelissen_XGBoost,Cornelissen Test-Validation,0.26932067139525007
+2,PAMPA,MACCS,Cornelissen_XGBoost,Cornelissen Test-Validation,0.5835054977932056
+3,BBB,MACCS,Cornelissen_XGBoost,Cornelissen Test-Validation,0.622895865888433
+4,Influx,MACCS,Cornelissen_XGBoost,Kadar Test,0.16666666666666666
+5,Efflux,MACCS,Cornelissen_XGBoost,Kadar Test,0.006926573371881391
+6,PAMPA,MACCS,Cornelissen_XGBoost,Kadar Test,0.4651705142364248
+7,BBB,MACCS,Cornelissen_XGBoost,Kadar Test,0.48577230933055543
+8,Influx,MACCS,Cornelissen_XGBoost,Kadar Validation,0.25
+9,Efflux,MACCS,Cornelissen_XGBoost,Kadar Validation,-0.012847146946191119
+10,PAMPA,MACCS,Cornelissen_XGBoost,Kadar Validation,0.32995600879804493
+11,BBB,MACCS,Cornelissen_XGBoost,Kadar Validation,0.2921557338005691

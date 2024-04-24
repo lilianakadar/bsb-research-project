@@ -1,0 +1,13 @@
+,Model,Accuracy,AUC,Recall,Prec.,F1,Kappa,MCC,Balanced Accuracy,Balanced MCC,Feature,Target,Splitting
+0,ExtraTreesClassifier,0.8846,0.9516,0.7778,0.875,0.8235,0.7383,0.7411,0.8595,0.7411,MD,Mcl-1,Random
+1,GradientBoostingClassifier,0.8808,0.9438,0.7889,0.8554,0.8208,0.7317,0.733,0.8592,0.733,MD,Mcl-1,Random
+2,RandomForestClassifier,0.8769,0.9466,0.7556,0.8718,0.8095,0.7193,0.7233,0.8484,0.7233,MD,Mcl-1,Random
+3,AdaBoostClassifier,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,FP,Mcl-1,Random
+4,DecisionTreeClassifier,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,FP,Mcl-1,Random
+5,GradientBoostingClassifier,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,FP,Mcl-1,Random
+6,XGBClassifier,0.8605,0.915,0.7105,0.7941,0.75,0.6536,0.6556,0.8168,0.6556,MD,Bcl-2,Random
+7,LGBMClassifier,0.8605,0.9158,0.7105,0.7941,0.75,0.6536,0.6556,0.8168,0.6556,MD,Bcl-2,Random
+8,RandomForestClassifier,0.8605,0.9138,0.7105,0.7941,0.75,0.6536,0.6556,0.8168,0.6556,MD,Bcl-2,Random
+9,XGBClassifier,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,FP,Bcl-2,Random
+10,AdaBoostClassifier,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,FP,Bcl-2,Random
+11,DecisionTreeClassifier,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,FP,Bcl-2,Random
