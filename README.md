@@ -1,6 +1,6 @@
-Course: Major Bioinformatics Research Project BSB (XM_0103)
-Student: Liliána Kádár
+<b>Course:</b> Major Bioinformatics Research Project BSB (XM_0103)
+<br><b>Student:</b> Liliána Kádár
 
-MSc: Bioinformatics and Systems Biology (joint degree)
-Specialization: Bioinformatics
-University: Vrije Universiteit Amsterdam, University of Amsterdam
+<p><b>MSc:</b> Bioinformatics and Systems Biology (joint degree)
+<br><b>Specialization:</b> Bioinformatics
+<br><b>University:</b> Vrije Universiteit Amsterdam, University of Amsterdam
